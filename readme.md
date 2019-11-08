@@ -1,1 +1,1 @@
-Contains solutions to hackerrank problems
+Contains solutions to hackerrank problems.
